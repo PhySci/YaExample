@@ -1,2 +1,5 @@
 def norm():
     pass
+	
+def norm_proper():
+    pass	
