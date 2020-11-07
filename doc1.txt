@@ -8,3 +8,9 @@ Another important thought.
 
 
 Second unimportant
+
+
+from scaler import scaler
+from scaler2 import scaler2
+
+df2 = scaler(df)
